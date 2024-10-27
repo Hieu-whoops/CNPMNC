@@ -3038,27 +3038,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ASUS\\.nuget\\packages\\": {}
+    "/Users/nc.hiu/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\aspcore2024-main\\Bestshop.csproj",
+      "projectUniqueName": "/Users/nc.hiu/Documents/GitHub/CNPMNC/Bestshop.csproj",
       "projectName": "Bestshop",
-      "projectPath": "C:\\Users\\ASUS\\Downloads\\aspcore2024-main\\Bestshop.csproj",
-      "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Downloads\\aspcore2024-main\\obj\\",
+      "projectPath": "/Users/nc.hiu/Documents/GitHub/CNPMNC/Bestshop.csproj",
+      "packagesPath": "/Users/nc.hiu/.nuget/packages/",
+      "outputPath": "/Users/nc.hiu/Documents/GitHub/CNPMNC/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/nc.hiu/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3071,11 +3068,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -3128,7 +3120,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.427/RuntimeIdentifierGraph.json"
       }
     }
   }

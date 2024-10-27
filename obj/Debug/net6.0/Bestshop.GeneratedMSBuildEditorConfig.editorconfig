@@ -9,131 +9,131 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Bestshop
 build_property.RootNamespace = Bestshop
-build_property.ProjectDir = C:\Users\ASUS\Downloads\aspcore2024-main\
+build_property.ProjectDir = /Users/nc.hiu/Documents/GitHub/CNPMNC/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ASUS\Downloads\aspcore2024-main
+build_property.MSBuildProjectDirectory = /Users/nc.hiu/Documents/GitHub/CNPMNC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Admin/Books/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va3NcQ3JlYXRlLmNzaHRtbA==
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Admin/Books/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQm9va3MvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Admin/Books/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va3NcRGVsZXRlLmNzaHRtbA==
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Admin/Books/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQm9va3MvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Admin/Books/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va3NcRWRpdC5jc2h0bWw=
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Admin/Books/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQm9va3MvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Admin/Books/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cQm9va3NcSW5kZXguY3NodG1s
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Admin/Books/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vQm9va3MvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Admin/Messages/Delete.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVzc2FnZXNcRGVsZXRlLmNzaHRtbA==
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Admin/Messages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vTWVzc2FnZXMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Admin/Messages/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVzc2FnZXNcRGV0YWlscy5jc2h0bWw=
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Admin/Messages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vTWVzc2FnZXMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Admin/Messages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cTWVzc2FnZXNcSW5kZXguY3NodG1s
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Admin/Messages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vTWVzc2FnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Admin/Orders/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJzXERldGFpbHMuY3NodG1s
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Admin/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vT3JkZXJzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Admin/Orders/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cT3JkZXJzXEluZGV4LmNzaHRtbA==
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Admin/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vT3JkZXJzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Admin/Users/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cVXNlcnNcSW5kZXguY3NodG1s
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Admin/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW4vVXNlcnMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Auth/ForgotPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxGb3Jnb3RQYXNzd29yZC5jc2h0bWw=
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Auth/ForgotPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aC9Gb3Jnb3RQYXNzd29yZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Auth/Login.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5jc2h0bWw=
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aC9Mb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Auth/Logout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dvdXQuY3NodG1s
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Auth/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aC9Mb2dvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Auth/Register.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aC9SZWdpc3Rlci5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Auth/ResetPassword.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZXNldFBhc3N3b3JkLmNzaHRtbA==
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Auth/ResetPassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQXV0aC9SZXNldFBhc3N3b3JkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/BookDetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va0RldGFpbHMuY3NodG1s
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/BookDetails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Books.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQm9va3MuY3NodG1s
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Books.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQm9va3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Cart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FydC5jc2h0bWw=
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Cart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Checkout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2hlY2tvdXQuY3NodG1s
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2hlY2tvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Client/Orders/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50XE9yZGVyc1xEZXRhaWxzLmNzaHRtbA==
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Client/Orders/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50L09yZGVycy9EZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Client/Orders/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2xpZW50XE9yZGVyc1xJbmRleC5jc2h0bWw=
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Client/Orders/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2xpZW50L09yZGVycy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Contact.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGFjdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Profile.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5jc2h0bWw=
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvZmlsZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ASUS/Downloads/aspcore2024-main/Pages/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-4gggrewi96
+[/Users/nc.hiu/Documents/GitHub/CNPMNC/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-1x3zjv97i5
